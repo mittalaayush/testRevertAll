@@ -1,0 +1,3 @@
+update table1 set key = 'sensi';
+
+update table1 set a = 'z';
